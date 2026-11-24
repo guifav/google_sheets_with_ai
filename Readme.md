@@ -2,6 +2,8 @@
 
 Integre os principais modelos de IA diretamente no Google Sheets usando fórmulas simples.
 
+**Artigo:** [IA no dia a dia corporativo: uma abordagem prática que funciona](https://guifav.dev/blog/ia-google-sheets-integracao-llm-codigo-aberto/)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-Ready-green.svg)](https://developers.google.com/apps-script)
 
